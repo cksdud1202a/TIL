@@ -26,9 +26,3 @@ S3 수명 주기 정책은 파일을 N일 후에 자동으로 이동/삭제시�
 만약 데이터의 접근 빈도를 예측할 수 있어서 다른 유형의 S3로 이동하고 싶을 때나,
 보관 기간이 정해져있어 보관 기간이 지나자마자 파일을 삭제하고 싶을 때 주로 사용
 ![S3 수명 주기 정책 예시: Standard → 30일 후 Standard-IA → 1년 후 Glacier](images/s3-lifecycle.png)
-
-### 전환 작업 (Transition Actions)
-
-
-### 만료 작업 (Expiration Actions)
-
